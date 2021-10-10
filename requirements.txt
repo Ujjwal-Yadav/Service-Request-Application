@@ -1,0 +1,7 @@
+Django
+django-phonenumber-field
+phonenumbers
+clarifai
+python-dotenv
+selenium
+coverage
